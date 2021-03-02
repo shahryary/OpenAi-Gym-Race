@@ -1,6 +1,6 @@
 # OpenAi-Gym-Race
 
-### to see the report [click here](https://github.com/shahryary/OpenAi-Gym-Race/blob/main/source/report.ipynb)
+### to see the report [click here](https://github.com/shahryary/OpenAi-Gym-Race/blob/main/report.ipynb)
 ## Train Stateless Agents
 
 
